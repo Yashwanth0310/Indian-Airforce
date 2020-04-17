@@ -35,7 +35,7 @@ li a:hover {
 p {background-color: black;}
 </style>
 <ul>
-  <li><a class="active" href="#home">Home</a></li>
+  <li><a class="active" href="#Gallery">gallery.html</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
@@ -59,7 +59,6 @@ However, indigenous manufacturing has created advanced skill sets in the country
 </p>
 <picture>
 <img src="Aero-Sukhoi1.jpeg" alt="SUKHOI 30 MKI" height="200" width="200" align="middle">
-<img src="download.jpg" alt="SUKHOI 30 MKI" height="200" width="200" align="middle">
 </picture>
 </body>
 </html>
