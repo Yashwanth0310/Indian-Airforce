@@ -1,5 +1,3 @@
-# Indian-Airforce
-Aircrafts
 <html>
 <title>The Indian Airforce</title>
 <h1>IAF FIGHTERS</h1>
