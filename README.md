@@ -29,7 +29,6 @@ li a {
 li a:hover {
   background-color: Grey ;
 }
-p{ background-color : white;}
 </style>
 <ul>
   <li><a class="active" href="gallery.html">Gallery</a></li>
