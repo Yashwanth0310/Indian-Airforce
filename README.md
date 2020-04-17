@@ -21,7 +21,7 @@ li a {
   display: block;
   color: black ;
   text-align: center;
-  padding: 10px 20px;
+  padding: 9px 9px;
   text-decoration: none
   ;
 }
