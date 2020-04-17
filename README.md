@@ -2,10 +2,9 @@
 <title>The Indian Airforce</title>
 <h1>IAF FIGHTERS</h1>
 <style>
-body {color: white;}
-h1 {color: white;}
-body {background-color: black;
-background-image: url("black.jpg");}
+body {color: black;}
+h1 {color: black;}
+body {background-image: url("black.jpg");}
 ul {
   list-style-type: none;
   margin: 0;
