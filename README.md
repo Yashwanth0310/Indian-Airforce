@@ -3,7 +3,7 @@
 <h1>IAF FIGHTERS</h1>
 <style>
 body {color: white;}
-h1 {color: black;}
+h1 {color: white;}
 body {background-color: black;
 background-image: url("black.jpg");}
 ul {
