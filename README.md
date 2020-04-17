@@ -35,7 +35,7 @@ li a:hover {
 p {background-color: black;}
 </style>
 <ul>
-  <li><a class="active" href="#Gallery">gallery.html</a></li>
+  <li><a class="active" href="gallery.html">Gallery</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
