@@ -11,7 +11,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: Black;
+  background-color: white;
 }
 
 li {
@@ -20,7 +20,7 @@ li {
 
 li a {
   display: block;
-  color: white ;
+  color: black ;
   text-align: center;
   padding: 10px 20px;
   text-decoration: none
