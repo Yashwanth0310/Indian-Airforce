@@ -59,7 +59,7 @@ Import of raw materials and proprietary components from Russia involves dependen
 However, indigenous manufacturing has created advanced skill sets in the country, a step towards self-reliance and will result in lower Life Cycle Cost and reduced dependency on OEM on repair & maintenance and faster turn-around time and quick support to IAF bases. Since the facilities are indigenously established, future production supplies is likely to be cheaper if new order for bulk production is placed on HAL.
 </strong></p>
 <picture>
-<img src="Aero-Sukhoi1.jpeg" alt="SUKHOI 30 MKI" height="200" width="200" align="middle">
+<img src="Aero-Sukhoi1.jpeg" alt="SUKHOI 30 MKI" height="1025" width="736" align="middle">
 </picture>
 </body>
 </html>
